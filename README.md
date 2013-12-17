@@ -111,6 +111,7 @@ Which would output the following JSON or XML when visiting `http://localhost:300
   }
 }]
 ```
+HTTP POST Pending-
 
 That's a basic overview but there is a lot more to see such as partials, inheritance, custom nodes, etc. Read the full details of RABL below.
 
